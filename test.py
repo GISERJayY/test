@@ -1,2 +1,3 @@
-a = "hello woed"  
-print(a)
+b = "hello woed"  
+a = "c"
+print(a + C)
